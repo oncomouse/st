@@ -1,0 +1,4 @@
+st
+*.o
+target.h
+config.h
