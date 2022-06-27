@@ -9,7 +9,7 @@ st is a simple terminal emulator for X which sucks less.
 * [bold-is-not-bright](https://st.suckless.org/patches/bold-is-not-bright/st-bold-is-not-bright-20190127-3be4cf1.diff)
 * [clipboard](https://st.suckless.org/patches/clipboard/st-clipboard-0.8.3.diff)
 * [delkey](https://st.suckless.org/patches/delkey/st-delkey-20201112-4ef0cbd.diff)
-* [xresources](https://st.suckless.org/patches/xresources/st-xresources-20200604-9ba7ecf.diff)
+* [xresources-signal-reloading](https://st.suckless.org/patches/xresources-with-reload-signal/st-xresources-signal-reloading-20220407-ef05519.diff)
 * [anysize](https://st.suckless.org/patches/anysize/st-anysize-0.8.4.diff)
 * [font2](https://raw.githubusercontent.com/oncomouse/patches/master/st-font2-20210629-4ef0cbd.diff)
 * [undercurl](https://raw.githubusercontent.com/oncomouse/patches/master/st-undercurl-20220322-ef05519.diff)
